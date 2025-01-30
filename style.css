@@ -166,7 +166,7 @@ section {
   display: flex;
   justify-content: center;
   gap: 5rem;
-  border-radius: 30px;
+ 
   height: 50vh;
 }
 
@@ -174,7 +174,6 @@ section {
   display: flex;
   height: 400px;
   width: 400px;
-  border-radius: 45deg;
   margin: auto 0;
 }
 
